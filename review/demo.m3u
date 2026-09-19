@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ch1" tvg-name="Elite News 1" tvg-logo="" group-title="News",Elite News 1
+#EXTINF:-1 tvg-id="ch1" tvg-name="Demo 1 - Apple HLS sample (bipbop 16x9)" tvg-logo="" group-title="News",Demo 1 - Apple HLS sample (bipbop 16x9)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
-#EXTINF:-1 tvg-id="ch2" tvg-name="Elite News 2" tvg-logo="" group-title="News",Elite News 2
+#EXTINF:-1 tvg-id="ch2" tvg-name="Demo 2 - Apple HLS sample (fMP4)" tvg-logo="" group-title="News",Demo 2 - Apple HLS sample (fMP4)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-id="ch3" tvg-name="Elite Movies HD" tvg-logo="" group-title="Movies",Elite Movies HD
+#EXTINF:-1 tvg-id="ch3" tvg-name="Demo 3 - Mux HLS sample" tvg-logo="" group-title="Movies",Demo 3 - Mux HLS sample
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="ch4" tvg-name="Elite Movies 4K" tvg-logo="" group-title="Movies",Elite Movies 4K
+#EXTINF:-1 tvg-id="ch4" tvg-name="Demo 4 - Unified Streaming HLS sample" tvg-logo="" group-title="Movies",Demo 4 - Unified Streaming HLS sample
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="ch5" tvg-name="Elite Sports 1" tvg-logo="" group-title="Sports",Elite Sports 1
+#EXTINF:-1 tvg-id="ch5" tvg-name="Demo 5 - Mux HLS sample" tvg-logo="" group-title="Sports",Demo 5 - Mux HLS sample
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="ch6" tvg-name="Elite Sports 2" tvg-logo="" group-title="Sports",Elite Sports 2
+#EXTINF:-1 tvg-id="ch6" tvg-name="Demo 6 - Mux HLS sample (PTS shift)" tvg-logo="" group-title="Sports",Demo 6 - Mux HLS sample (PTS shift)
 https://test-streams.mux.dev/pts_shift/master.m3u8
-#EXTINF:-1 tvg-id="ch7" tvg-name="Elite Kids" tvg-logo="" group-title="Kids",Elite Kids
+#EXTINF:-1 tvg-id="ch7" tvg-name="Demo 7 - Mux HLS sample (test pattern)" tvg-logo="" group-title="Kids",Demo 7 - Mux HLS sample (test pattern)
 https://test-streams.mux.dev/test_001/stream.m3u8
-#EXTINF:-1 tvg-id="ch8" tvg-name="Elite Docs" tvg-logo="" group-title="Documentaries",Elite Docs
+#EXTINF:-1 tvg-id="ch8" tvg-name="Demo 8 - Mux HLS sample (ISMC)" tvg-logo="" group-title="Documentaries",Demo 8 - Mux HLS sample (ISMC)
 https://test-streams.mux.dev/tos_ismc/main.m3u8
-#EXTINF:-1 tvg-id="ch9" tvg-name="Elite Music" tvg-logo="" group-title="Music",Elite Music
+#EXTINF:-1 tvg-id="ch9" tvg-name="Demo 9 - Mux HLS sample (AES)" tvg-logo="" group-title="Music",Demo 9 - Mux HLS sample (AES)
 https://test-streams.mux.dev/bbbAES/playlists/sample_aes/index.m3u8
-#EXTINF:-1 tvg-id="ch10" tvg-name="Elite Classics" tvg-logo="" group-title="Movies",Elite Classics
+#EXTINF:-1 tvg-id="ch10" tvg-name="Demo 10 - Apple HLS sample (MPEG-TS)" tvg-logo="" group-title="Movies",Demo 10 - Apple HLS sample (MPEG-TS)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 #EXTINF:-1 tvg-name="Big Buck Bunny (Demo)" tvg-logo="" group-title="Demo Movies",Big Buck Bunny (Demo)
 https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
